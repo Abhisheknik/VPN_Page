@@ -4,7 +4,7 @@
 This is a simple VPN page built using HTML, CSS and Bootstrap. The page is responsive and has a clean and modern design.
 
 # Getting Started
-To view the page, simply open the index.html file in a web browser. You can also view the page online by clicking on this link: https://example.com/vpn-page.
+To view the page, simply open the index.html file in a web browser. You can also view the page online by clicking on this link: [https://vpnpage.netlify.app/)]
 
 # Built With
 HTML
